@@ -1,0 +1,3 @@
+name=root
+password=bingo222
+connectionString=jdbc:mysql://localhost:3306/Demo?serverTimezone=UTC&useSSL=false&allowPublicRetrieval=true}
